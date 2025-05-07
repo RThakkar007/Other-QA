@@ -6,3 +6,9 @@ Medium Draft
 
 Enhance Resume/Porfolio Link :
 https://github.com/PaulaRybicka0114/Portfolio?tab=readme-ov-file
+
+Mediam Post:
+https://medium.com/p/4af7e1720b3f/edit
+https://medium.com/@ronaktechm/interview-questions-for-automation-software-test-engineer-4af7e1720b3f
+
+
