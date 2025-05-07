@@ -11,4 +11,3 @@ Mediam Post:
 https://medium.com/p/4af7e1720b3f/edit
 https://medium.com/@ronaktechm/interview-questions-for-automation-software-test-engineer-4af7e1720b3f
 
-
